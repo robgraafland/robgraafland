@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robgraafland
 - 👀 I’m interested in Tax & Technology
 - 🌱 I’m currently learning Python & Math for CS
-- 💞️ I’m looking to collaborate on a Python project to grow my CS Math understanding
+- 💞️ I’m looking to collaborate on a Python project to grow my understanding of Math for CS
 - 📫 How to reach me robertgraafland@gmail.com
 
 <!---
